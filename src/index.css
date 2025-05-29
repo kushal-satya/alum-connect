@@ -1,0 +1,29 @@
+/* Leaflet CSS - must be imported before Tailwind to avoid conflicts */
+@import 'leaflet/dist/leaflet.css';
+@import 'leaflet.markercluster/dist/MarkerCluster.css';
+@import 'leaflet.markercluster/dist/MarkerCluster.Default.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles */
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+}
+
+/* Custom component styles */
+@layer components {
+  .map-container {
+    @apply h-96 w-full rounded-lg shadow-lg;
+  }
+  
+  .member-card {
+    @apply bg-white dark:bg-gray-800 rounded-lg shadow-md p-4 hover:shadow-lg transition-shadow;
+  }
+  
+  .filter-panel {
+    @apply bg-white dark:bg-gray-800 rounded-lg shadow-md p-4;
+  }
+}

@@ -1,0 +1,462 @@
+[
+  {
+    "fullName": "Emma Johnson",
+    "lat": 42.4534,
+    "lon": -76.4735,
+    "currentCity": "Ithaca, NY",
+    "country": "USA",
+    "houseYears": ["2023-2025"],
+    "cornellYears": ["2021-2025"],
+    "role": "Current Resident"
+  },
+  {
+    "fullName": "Riley Chen",
+    "lat": 40.7128,
+    "lon": -74.0060,
+    "currentCity": "New York, NY",
+    "country": "USA",
+    "houseYears": ["2019-2021"],
+    "cornellYears": ["2017-2021"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Sam Rodriguez",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "currentCity": "San Francisco, CA",
+    "country": "USA",
+    "houseYears": ["2022-2024"],
+    "cornellYears": ["2020-2024"],
+    "role": "Current Resident"
+  },
+  {
+    "fullName": "Jake Thompson",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "currentCity": "Chicago, IL",
+    "country": "USA",
+    "houseYears": ["2018-2020"],
+    "cornellYears": ["2016-2020"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Maya Patel",
+    "lat": 42.3601,
+    "lon": -71.0589,
+    "currentCity": "Boston, MA",
+    "country": "USA",
+    "houseYears": ["2020-2022"],
+    "cornellYears": ["2018-2022"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Connor Walsh",
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "currentCity": "Seattle, WA",
+    "country": "USA",
+    "houseYears": ["2019-2021"],
+    "cornellYears": ["2017-2021"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Sophia Martinez",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "currentCity": "Los Angeles, CA",
+    "country": "USA",
+    "houseYears": ["2021-2023"],
+    "cornellYears": ["2019-2023"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Ethan Davis",
+    "lat": 39.7392,
+    "lon": -104.9903,
+    "currentCity": "Denver, CO",
+    "country": "USA",
+    "houseYears": ["2020-2022"],
+    "cornellYears": ["2018-2022"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Olivia Kim",
+    "lat": 38.9072,
+    "lon": -77.0369,
+    "currentCity": "Washington, DC",
+    "country": "USA",
+    "houseYears": ["2018-2020"],
+    "cornellYears": ["2016-2020"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Lucas Brown",
+    "lat": 30.2672,
+    "lon": -97.7431,
+    "currentCity": "Austin, TX",
+    "country": "USA",
+    "houseYears": ["2019-2021"],
+    "cornellYears": ["2017-2021"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Isabella Garcia",
+    "lat": 25.7617,
+    "lon": -80.1918,
+    "currentCity": "Miami, FL",
+    "country": "USA",
+    "houseYears": ["2021-2023"],
+    "cornellYears": ["2019-2023"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Mason Taylor",
+    "lat": 39.2904,
+    "lon": -76.6122,
+    "currentCity": "Baltimore, MD",
+    "country": "USA",
+    "houseYears": ["2020-2022"],
+    "cornellYears": ["2018-2022"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Ava Wilson",
+    "lat": 44.9778,
+    "lon": -93.2650,
+    "currentCity": "Minneapolis, MN",
+    "country": "USA",
+    "houseYears": ["2018-2020"],
+    "cornellYears": ["2016-2020"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Noah Anderson",
+    "lat": 33.4484,
+    "lon": -112.0740,
+    "currentCity": "Phoenix, AZ",
+    "country": "USA",
+    "houseYears": ["2019-2021"],
+    "cornellYears": ["2017-2021"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Charlotte Lee",
+    "lat": 36.1627,
+    "lon": -86.7816,
+    "currentCity": "Nashville, TN",
+    "country": "USA",
+    "houseYears": ["2021-2023"],
+    "cornellYears": ["2019-2023"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Alex Müller",
+    "lat": 52.5200,
+    "lon": 13.4050,
+    "currentCity": "Berlin, Germany",
+    "country": "Germany",
+    "houseYears": ["2020-2022"],
+    "cornellYears": ["2018-2022"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Jordan Williams",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "currentCity": "London, UK",
+    "country": "United Kingdom",
+    "houseYears": ["2021-2023"],
+    "cornellYears": ["2019-2023"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Camille Dubois",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "currentCity": "Paris, France",
+    "country": "France",
+    "houseYears": ["2019-2021"],
+    "cornellYears": ["2017-2021"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Luca Rossi",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "currentCity": "Rome, Italy",
+    "country": "Italy",
+    "houseYears": ["2018-2020"],
+    "cornellYears": ["2016-2020"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Emma Andersson",
+    "lat": 59.3293,
+    "lon": 18.0686,
+    "currentCity": "Stockholm, Sweden",
+    "country": "Sweden",
+    "houseYears": ["2020-2022"],
+    "cornellYears": ["2018-2022"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Priya Sharma",
+    "lat": 19.0760,
+    "lon": 72.8777,
+    "currentCity": "Mumbai, India",
+    "country": "India",
+    "houseYears": ["2018-2020"],
+    "cornellYears": ["2016-2020"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Kenji Tanaka",
+    "lat": 35.6762,
+    "lon": 139.6503,
+    "currentCity": "Tokyo, Japan",
+    "country": "Japan",
+    "houseYears": ["2019-2021"],
+    "cornellYears": ["2017-2021"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Li Wei",
+    "lat": 39.9042,
+    "lon": 116.4074,
+    "currentCity": "Beijing, China",
+    "country": "China",
+    "houseYears": ["2020-2022"],
+    "cornellYears": ["2018-2022"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Arjun Gupta",
+    "lat": 28.7041,
+    "lon": 77.1025,
+    "currentCity": "New Delhi, India",
+    "country": "India",
+    "houseYears": ["2019-2021"],
+    "cornellYears": ["2017-2021"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Mei Zhang",
+    "lat": 31.2304,
+    "lon": 121.4737,
+    "currentCity": "Shanghai, China",
+    "country": "China",
+    "houseYears": ["2021-2023"],
+    "cornellYears": ["2019-2023"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Maria González",
+    "lat": -34.6037,
+    "lon": -58.3816,
+    "currentCity": "Buenos Aires, Argentina",
+    "country": "Argentina",
+    "houseYears": ["2017-2019"],
+    "cornellYears": ["2015-2019"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "João Silva",
+    "lat": -23.5505,
+    "lon": -46.6333,
+    "currentCity": "São Paulo, Brazil",
+    "country": "Brazil",
+    "houseYears": ["2020-2022"],
+    "cornellYears": ["2018-2022"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Ahmed Hassan",
+    "lat": 30.0444,
+    "lon": 31.2357,
+    "currentCity": "Cairo, Egypt",
+    "country": "Egypt",
+    "houseYears": ["2019-2021"],
+    "cornellYears": ["2017-2021"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Sarah Mitchell",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "currentCity": "Sydney, Australia",
+    "country": "Australia",
+    "houseYears": ["2018-2020"],
+    "cornellYears": ["2016-2020"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Dmitri Volkov",
+    "lat": 55.7558,
+    "lon": 37.6176,
+    "currentCity": "Moscow, Russia",
+    "country": "Russia",
+    "houseYears": ["2020-2022"],
+    "cornellYears": ["2018-2022"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Fatima Al-Zahra",
+    "lat": 25.2048,
+    "lon": 55.2708,
+    "currentCity": "Dubai, UAE",
+    "country": "United Arab Emirates",
+    "houseYears": ["2019-2021"],
+    "cornellYears": ["2017-2021"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Benjamin Clark",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "currentCity": "Toronto, Canada",
+    "country": "Canada",
+    "houseYears": ["2021-2023"],
+    "cornellYears": ["2019-2023"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Yuki Sato",
+    "lat": 34.6937,
+    "lon": 135.5023,
+    "currentCity": "Osaka, Japan",
+    "country": "Japan",
+    "houseYears": ["2018-2020"],
+    "cornellYears": ["2016-2020"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Grace O'Connor",
+    "lat": 53.3498,
+    "lon": -6.2603,
+    "currentCity": "Dublin, Ireland",
+    "country": "Ireland",
+    "houseYears": ["2020-2022"],
+    "cornellYears": ["2018-2022"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Carlos Mendoza",
+    "lat": 19.4326,
+    "lon": -99.1332,
+    "currentCity": "Mexico City, Mexico",
+    "country": "Mexico",
+    "houseYears": ["2019-2021"],
+    "cornellYears": ["2017-2021"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Ana Kovač",
+    "lat": 45.8150,
+    "lon": 15.9819,
+    "currentCity": "Zagreb, Croatia",
+    "country": "Croatia",
+    "houseYears": ["2021-2023"],
+    "cornellYears": ["2019-2023"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Henrik Larsen",
+    "lat": 55.6761,
+    "lon": 12.5683,
+    "currentCity": "Copenhagen, Denmark",
+    "country": "Denmark",
+    "houseYears": ["2018-2020"],
+    "cornellYears": ["2016-2020"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Isabella Ferrari",
+    "lat": 45.4642,
+    "lon": 9.1900,
+    "currentCity": "Milan, Italy",
+    "country": "Italy",
+    "houseYears": ["2020-2022"],
+    "cornellYears": ["2018-2022"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Pavel Novák",
+    "lat": 50.0755,
+    "lon": 14.4378,
+    "currentCity": "Prague, Czech Republic",
+    "country": "Czech Republic",
+    "houseYears": ["2019-2021"],
+    "cornellYears": ["2017-2021"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Mia Thompson",
+    "lat": 49.2827,
+    "lon": -123.1207,
+    "currentCity": "Vancouver, Canada",
+    "country": "Canada",
+    "houseYears": ["2021-2023"],
+    "cornellYears": ["2019-2023"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Omar Al-Rashid",
+    "lat": 24.4539,
+    "lon": 54.3773,
+    "currentCity": "Abu Dhabi, UAE",
+    "country": "United Arab Emirates",
+    "houseYears": ["2018-2020"],
+    "cornellYears": ["2016-2020"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Zara Okafor",
+    "lat": 6.5244,
+    "lon": 3.3792,
+    "currentCity": "Lagos, Nigeria",
+    "country": "Nigeria",
+    "houseYears": ["2020-2022"],
+    "cornellYears": ["2018-2022"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Raj Patel",
+    "lat": 23.0225,
+    "lon": 72.5714,
+    "currentCity": "Ahmedabad, India",
+    "country": "India",
+    "houseYears": ["2019-2021"],
+    "cornellYears": ["2017-2021"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Elena Popović",
+    "lat": 44.7866,
+    "lon": 20.4489,
+    "currentCity": "Belgrade, Serbia",
+    "country": "Serbia",
+    "houseYears": ["2021-2023"],
+    "cornellYears": ["2019-2023"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "James Mitchell",
+    "lat": -37.8136,
+    "lon": 144.9631,
+    "currentCity": "Melbourne, Australia",
+    "country": "Australia",
+    "houseYears": ["2018-2020"],
+    "cornellYears": ["2016-2020"],
+    "role": "Alum"
+  },
+  {
+    "fullName": "Sofia Reyes",
+    "lat": 4.7110,
+    "lon": -74.0721,
+    "currentCity": "Bogotá, Colombia",
+    "country": "Colombia",
+    "houseYears": ["2020-2022"],
+    "cornellYears": ["2018-2022"],
+    "role": "Alum"
+  }
+]
